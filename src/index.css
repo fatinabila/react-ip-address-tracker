@@ -82,7 +82,7 @@ code {
 }
 
 .btn-outline-secondary::after{
-  content:url("https://fatinabila.github.io/react-ip-address-tracker//img/right.png")
+  content:url("https://fatinabila.github.io/react-ip-address-tracker/img/next.png")
 }
 @media only screen and (max-width: 767px) {
 
