@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8da63225ef3ebfc24ebd40feea4ae837",
+    "revision": "3fe722c1a8de3e9ee90f354bd1f31708",
     "url": "/react-ip-address-tracker/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-ip-address-tracker/static/css/2.6f016c28.chunk.css"
   },
   {
-    "revision": "e943584452596bee5419",
-    "url": "/react-ip-address-tracker/static/css/main.23053ac4.chunk.css"
+    "revision": "7452a86bd7ada7da5c4c",
+    "url": "/react-ip-address-tracker/static/css/main.9ab70440.chunk.css"
   },
   {
     "revision": "edd0e2a49038ccbda378",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-ip-address-tracker/static/js/2.e4231483.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e943584452596bee5419",
+    "revision": "7452a86bd7ada7da5c4c",
     "url": "/react-ip-address-tracker/static/js/main.c00a5221.chunk.js"
   },
   {
