@@ -1,4 +1,4 @@
-# react-ip-address-tracker
+# IP Address Tracker
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/fatinabila/react-ip-address-tracker//master/preview.png)
 
