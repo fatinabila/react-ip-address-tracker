@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-ip-address-tracker/precache-manifest.1f21ae8bf250bb16dc5660a7bde90766.js"
+  "/react-ip-address-tracker/precache-manifest.c6cc7d7fcc1bd3eb0cd7afeb321821da.js"
 );
 
 self.addEventListener('message', (event) => {
