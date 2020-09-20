@@ -40,7 +40,7 @@ class MapComponent extends Component {
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             detectRetina: true,
             maxZoom: 25,
-            maxNativeZoom: 17
+            // maxNativeZoom: 17
         }).addTo(this.map)
 
         L.marker([lat, lng], {icon: myIcon}).addTo(this.map);
