@@ -30,13 +30,16 @@ class MapComponent extends Component {
         this.map = L.map('map', {
             center: [lat, lng],
             zoom: 18,
-            zoomControl: true,
-            dragging : true
+            zoomControl: false,
+            dragging : true,
+            mapId : "map",
+            zoomAnimation : true,
+            scrollWheelZoom : true
         });
 
-        L.tileLayer('https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             detectRetina: true,
-            maxZoom: 20,
+            maxZoom: 25,
             maxNativeZoom: 17
         }).addTo(this.map)
 

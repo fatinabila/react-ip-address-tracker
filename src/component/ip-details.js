@@ -20,7 +20,7 @@ class IPDetailsComponent extends Component {
 
       this.IPDetails = data;
 
-      if (this.IPDetails != "init"){
+      if (this.IPDetails !== "init"){
 
         this.DetailPlace = this.IPDetails.location.city
         this.DetailCountry = this.IPDetails.location.country

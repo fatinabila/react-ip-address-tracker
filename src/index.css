@@ -70,6 +70,10 @@ code {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 17px;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 #map {
@@ -87,7 +91,7 @@ code {
 @media only screen and (max-width: 767px) {
 
   #map {
-    margin-top: -250px;
+    margin-top: -220px;
     z-index: -1;
   }
 
